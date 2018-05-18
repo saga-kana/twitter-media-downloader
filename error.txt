@@ -1,0 +1,3 @@
+#image download failed
+# TWEET URL: https://twitter.com/fujisakitoki/status/557794488706666496
+wget -O /mnt/sdc/twitter/188410596/188410596-557794488706666496-B72vH1PIUAIKsIn.jpg http://pbs.twimg.com/media/B72vH1PIUAIKsIn.jpg

@@ -1,0 +1,1 @@
+/home/ogawara/public_html/twitter/php/people.txt
